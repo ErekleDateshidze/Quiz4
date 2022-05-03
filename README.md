@@ -1,2 +1,2 @@
 # Quiz4
-HTML Web Pahe
+HTML Web Page
